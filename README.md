@@ -42,4 +42,4 @@ The usefulness of the project is the simplicity of the menu and design of the pr
 
 **Who maintains the code and is a contributor**
 
-I maintain the code and I am the contributor.
+I maintain the code and I am the contributor. The project was reviewed by the professional code reviewers at HyperionDev.
